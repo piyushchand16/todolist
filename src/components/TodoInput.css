@@ -1,0 +1,19 @@
+.todo-input-div{
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    border-radius: 12px;
+}
+
+.todo-input{
+    border-radius: 12px;
+    width: 75%;
+    padding-left: 10px;
+}
+.todo-input:focus{
+    outline: none;
+}
+.todo-button{
+    display: flex;
+    background-color: rgb(55, 60, 89);
+}
